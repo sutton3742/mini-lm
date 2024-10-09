@@ -1,4 +1,4 @@
-# MiniLM RNN Implementation
+# MiniLM [RNN]
 
 This repository provides an implementation of a **Recurrent Neural Network (RNN)** model for natural language processing tasks. The main goal is to demonstrate how to apply an RNN to text data using MiniLM, a lightweight language model, to extract meaningful features from text.
 
